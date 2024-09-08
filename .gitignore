@@ -108,3 +108,6 @@ poetry.lock
 # Environments
 .env
 .env.*
+# /test_multiclass.py
+/test_*
+/desktop.ini
